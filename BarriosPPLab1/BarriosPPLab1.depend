@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1590172519 source:c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"servicio.h"
+	"datawarehouseServicios.h"
+
+1590109689 source:c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"moto.h"
+	"menu.h"
+
+1589580098 c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\menu.h
+
+1590189489 source:c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"utn.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589583393 source:c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589583363 c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\utn.h
+
+1590193695 source:c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"utn.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590193759 c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\moto.h
+
+1590189978 source:c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"moto.h"
+	"datawarehouse.h"
+
+1590188356 c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\datawarehouse.h
+
+1590081527 source:c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"moto.h"
+	"datawarehouse.h"
+
+1590112359 c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\servicio.h
+
+1590172510 c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\datawarehouseservicios.h
+
+1590189476 c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\trabajo.h
+
+1590186347 source:c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"cliente.h"
+
+1590186267 c:\users\carolina.barrios\desktop\caro\utn\laboratorio 1\tp_laboratorio_1\barriospplab1\cliente.h
+
